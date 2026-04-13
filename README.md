@@ -1,3 +1,5 @@
+# Hi 🤞🏼 I'm Domingos Cunha
+
 Analista e Desenvlovedor de Software
 Phyton &  estudando SQL
 | Luanda
@@ -61,24 +63,27 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img height="170" src="[def5]
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stars.vercel.app/api?username=domingoscunha&show_iconst=true&theme=tokyonight&count_private=true"
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingoscunha&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## Philosophy
+Because, to state the basics of Computer Science, it's an area where you have the possibility to manipule information, and you have to accept that this area that will always exist.
+
+
+---
+
+
+🤞🏼 If you like my work, consider starring a repository. Always open to collaborations, partnerships, and cool ideas
+
+
+
 
 
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
 
 
-[def]: https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000
-[def2]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript
-[def3]: hh
-[def4]: h
-[def5]: ttps://github-readme-stats.vercel.app/api?username=domingoscunhaherbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=tru
