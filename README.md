@@ -1,12 +1,7 @@
-# Hi 🤞🏼 I'm Domingos Cunha
+## Hi 🤞🏼 I'm Domingos Cunha
 
-Analista e Desenvlovedor de Software
-Phyton &  estudando SQL
-| Luanda
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Analista de dados e Desenvlovedor de Software & FastAPI|I do **architecture construction, Systems functionally solver, and business logic solutions**.
+I also create **Aplication Porgramming Interface, software development, and buniness logic**.
 
 ---
 
