@@ -65,7 +65,7 @@ I also create **Aplication Porgramming Interface, software development, and buni
 ---
 
 ## Philosophy
-Because, to state the basics of Computer Science, it's an area where you have the possibility to manipule information, and you have to accept that this area that will always exist.
+it's an area where you have the possibility to manipule information, and guarantee you have to accept that this area that will always exist.
 
 
 ---
