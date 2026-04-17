@@ -57,10 +57,14 @@ I also create **Aplication Porgramming Interface, software development, and buni
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stars.vercel.app/api?username=domingoscunha&show_iconst=true&theme=tokyonight&count_private=true"
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingoscunha&layout=compact&theme=tokyonight" />
-</p>
+  ![GitHub
+        Stats](https://github-readme-stats.vercel.app/api?username=domingoscunha&show_icons=true&theme=dark)
+        
+   ![GitHub
+        Sreak](https://github-readme-streak-stats.herokuapp.com/?username=domingoscunha&theme=dark)
+
+  ![Top
+        Langs](https://github-readme-stats.verce1.app/api/top-longs/username=domingoscunha&layout=compact&theme=dark)
 
 ---
 
@@ -70,15 +74,6 @@ it's an area where you have the possibility to manipule information, and guarant
 
 ---
 
-
-🤞🏼 If you like my work, consider starring a repository. Always open to collaborations, partnerships, and cool ideas
-
-
-
-
-
-
----
-
+🤞🏼 If you like my work, consider starring a repository. Always open to collaborations, partnerships, and cool ideas.
 
 
