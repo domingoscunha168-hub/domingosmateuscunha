@@ -56,17 +56,6 @@ I also create **Aplication Porgramming Interface, software development, and buni
 
 ---
 
-## 📊 GitHub Stats
-  ![GitHub
-        Stats](https://github-readme-stats.vercel.app/api?username=domingoscunha&show_icons=true&theme=dark)
-        
-   ![GitHub
-        Sreak](https://github-readme-streak-stats.herokuapp.com/?username=domingoscunha&theme=dark)
-
-  ![Top
-        Langs](https://github-readme-stats.verce1.app/api/top-longs/username=domingoscunha&layout=compact&theme=dark)
-
----
 
 ## Philosophy
 it's an area where you have the possibility to manipule information, and guarantee you have to accept that this area that will always exist.
